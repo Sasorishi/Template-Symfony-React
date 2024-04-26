@@ -12,7 +12,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { createRoot } from "react-dom/client";
 
 import Navigation from "./js/components/Navigation";
-import HomePage from "./js/pages/Homepage";
+import HomePage from "./js/pages/HomePage";
 import TestPage from "./js/pages/TestPage";
 
 const Main = () => {
