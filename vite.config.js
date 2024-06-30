@@ -1,5 +1,6 @@
 import { defineConfig } from "vite";
 import symfonyPlugin from "vite-plugin-symfony";
+import path from "path";
 
 /* if you're using React */
 import react from "@vitejs/plugin-react";

@@ -11,6 +11,7 @@ function HomePage() {
       <div className="bg-blue-500 text-white p-4 m-4">
         Contenu avec Tailwind CSS
       </div>
+      <button className="btn btn-primary">Bouton Bootstrap</button>
     </div>
   );
 }
