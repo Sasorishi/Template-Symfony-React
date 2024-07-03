@@ -23,6 +23,10 @@ You can download and install Composer by following the instructions on the offic
 
 You can download and install Node.js and npm from the official Node.js website: [Node.js Downloads](https://nodejs.org/en/download/)
 
+### Installing Symfony CLI
+
+You can download and install Symfony CLI: [Symfony CLI Downloads](https://symfony.com/download)
+
 ## Getting Started
 
 1. **Clone this repository to your local machine:**
